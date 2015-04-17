@@ -1,0 +1,24 @@
+2:37 PM Tue 7 Apr 2015
+
+Just finished and verified step 7.
+
+PuTTy pwd: /home/ec2-user/cs360_l11_cluster/cluster
+
+Google Chrome Incognito address: http://52.11.86.186:3000/
+
+Google Chrome addresses:
+  Learning Suite Lab #11 Cluster
+  https://learningsuite.byu.edu/student,calendar.0
+
+  Lab 11 Hints
+  https://students.cs.byu.edu/~clement/CS360/clusterhints.html
+
+  Help on node for loops
+  http://blog.mixu.net/2011/02/03/javascript-node-js-and-for-loops/
+
+Notepad++ opened files:
+cs360_l11_cluster/cluster/views/index.ejs
+cs360_l11_cluster/cluster/routes/index.js
+cs360_l11_cluster/cluster/bin/www
+cs360_l11_cluster/cluster/public/javascripts/angularApp.js
+cs360_l11_cluster/completion_status
